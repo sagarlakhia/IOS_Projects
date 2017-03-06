@@ -12,4 +12,4 @@ Auto Layout : An application that allows you to set different size for different
 DreamLister : An Application that showcases the use of Core Data in IOS <br/>
 RainyShinyCloudy : A simple weather app that fetches current location coordinates and fetches weather reports using openWeatherMap API. <br/>
 
-All these projects are part of the course. Thanks to Mark Price. I’m getting a better insights at IOS Development.<br/>
+Thanks to Mark Price. I’m getting a better insights at IOS Development.<br/>
